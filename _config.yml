@@ -2,23 +2,21 @@
 permalink:           pretty
 
 # Setup
-title:               Progress
-tagline:             A responsive blog theme that illustrates reading progress. Suited for continous reading.
-url:                 http://alexanderussell.github.io
-baseurl:             /progress-for-jekyll
+title:               The Dividend Nerd
+tagline:             A blog about becoming a dividend nerd
+url:                 tvbrux.github.io
+baseurl:             
 analytics_id:
 
 # Owner/author information
 owner:
-  name:           Alex Russell
+  name:           Thijs
   avatar:         avatar.png
-  bio:            "Designer."
-  email:          alex@collectivelymade.com
-  twitter:        alexanderussell
-  github:         alexanderussell
-  instagram:      alexanderussell
-  dribbble:       alexanderussell
-  location:       "Lincoln, NE"
+  bio:            "Aspiring dividend nerd."
+  email:          thijs@brux.nl
+  #twitter:        alexanderussell
+  github:         tvbrux       
+  location:       "Utrecht, NL"
 
 
 # Custom vars
